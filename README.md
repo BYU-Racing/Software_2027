@@ -20,7 +20,11 @@ The eletronic control unit
 ### BMS
 The battery management system
 
+### EMI
+Noncritical sensor integration
+
 ### Telemetry
 The data acquisition interface
+
 
 ___
